@@ -14,11 +14,11 @@
 Designed to address the execution process, this Playbook offers program managers and software engineers information on how Federal Agile Digital Services are integrated with remote development. Fundamentally, this Playbook provides the overall structure for how to implement Macro’s Remote Application Development processes and provides practical instructions to execute projects, filling in the gaps in the absence of any customer-provided methodology or tooling. The following plays are core to this approach and are covered in more detail in the following pages.
 
 1.	[Remote Infrastructure](https://github.com/thagerdc/RAD-Playbook/blob/main/README.md#1-remote-infrastructure)
-2.	Virtual Communications
-3.	Managing Stakeholder Expectations
-4.	Ways of Working
-5.	Supporting People
-6.	Digital Service Adoption
+2.	[Virtual Communications](https://github.com/thagerdc/RAD-Playbook/blob/main/README.md#2-virtual-communications)
+3.	[Managing Stakeholder Expectations](https://github.com/thagerdc/RAD-Playbook/blob/main/README.md#3-managing-stakeholder-expectations)
+4.	[Ways of Working](https://github.com/thagerdc/RAD-Playbook/blob/main/README.md#4-ways-of-working)
+5.	[Supporting People](https://github.com/thagerdc/RAD-Playbook/blob/main/README.md#5-supporting-people)
+6.	[Digital Service Adoption](https://github.com/thagerdc/RAD-Playbook/blob/main/README.md#6-digital-services-adoption)
 
 ---
 

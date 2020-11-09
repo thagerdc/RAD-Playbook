@@ -1,6 +1,15 @@
+---
+# [MACRO SOLUTION'](https://macrosolutions.com/services/rapid-application-delivery/) RAPID APPLICATION DELIVERY
+### Highly-skilled, fully-engaged, scrum teams ready to deliver now.
+*We have the capacity to quickly standup highly-skilled scrum teams ready for application and platform development tasks.  Our team is CONUS-based, but off site, using secure agile techniques and advanced tooling to communicate and engage efficiently while remaining cost effective.  Learn more in our [Playbook]().*
+
+![](RAD.png)
+
+---
+
 # RAPID APPLICATION DELIVERY PLAYBOOK
 
-[Macro Solutions’](https://macrosolutions.com/services/rapid-application-delivery/) [Rapid Application Delivery](https://github.com/thagerdc/RAD-Playbook/blob/main/README.md#macro-solutions-rapid-application-delivery) (‘RAD’) Playbook provides guidance and processes needed to efficiently and effectively develop and deliver products that meet our customers’ needs. The Playbook enables our team to “hit the ground running,” providing significant benefit to our customers by increasing program management efficiency, decreasing program time and cost, reducing execution risks, and streamlining delivery.
+Macro Solutions’ [Rapid Application Delivery](https://github.com/thagerdc/RAD-Playbook/blob/main/README.md#macro-solutions-rapid-application-delivery) (‘RAD’) Playbook provides guidance and processes needed to efficiently and effectively develop and deliver products that meet our customers’ needs. The Playbook enables our team to “hit the ground running,” providing significant benefit to our customers by increasing program management efficiency, decreasing program time and cost, reducing execution risks, and streamlining delivery.
 
 ### KEY PRACTICES
 
@@ -128,10 +137,3 @@ Adoption of these practices are necessary as they are foundational to the way we
 - [Manage security and privacy through reusable processes](https://playbook.cio.gov/#play11)
 - [Use data to drive decisions](https://playbook.cio.gov/#play12)
 - [Default to open](https://playbook.cio.gov/#play13)
-
----
-# Macro Solutions' Rapid Application Delivery
-### Highly-skilled, fully-engaged, scrum teams ready to deliver now.
-*We have the capacity to quickly standup highly-skilled scrum teams ready for application and platform development tasks.  Our team is CONUS-based, but off site, using secure agile techniques and advanced tooling to communicate and engage efficiently while remaining cost effective.*
-
-![](RAD.png)

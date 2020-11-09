@@ -107,7 +107,7 @@ While the right tools and processes are important for remote support, success is
 ---
 
 ## 6. DIGITAL SERVICE ADOPTION
-To increase the success rate of Federal digital services projects, the U.S. Government developed the [Digital Services Playbook] (https://playbook.cio.gov). It is comprised of 13 key recommendations drawn from successful practices from the private sector and government that help government build effective digital services.  
+To increase the success rate of Federal digital services projects, the U.S. Government developed the [Digital Services Playbook](https://playbook.cio.gov). It is comprised of 13 key recommendations drawn from successful practices from the private sector and government that help government build effective digital services.  
 
 As noted on the site, “The American people expect to interact with government through digital channels such as websites, email, and mobile applications. By building digital services that meet their needs, we can make the delivery of our policy and programs more effective.”  
 

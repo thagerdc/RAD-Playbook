@@ -103,7 +103,7 @@ While the right tools and processes are important for remote support, success is
 | Feedback | There is an established framework for 1:1 with team members. Consider moving to weekly for the period. Act on and follow up after 1:1 where there is a need.  Undertake a health check as part of the weekly 1:1. Conﬁrm if team members are integrating and performing as expected.  Get help from HR or Leadership if you are unsure how to support team members. | In-context feedback during/ after routine collaboration (e.g. remote pairing), Regular 1:1 check-ins over VC. |
 | Wellness | Teams have a process to update the organization of any illnesses or change in status for their team members.  Share information relating to the issues with the wider team, including status, actions and policy updates. Draw their attention to any company-wide communications. | Email; regular internal meetings; helpline for those who need it. |
 | Ergonomics | Employees have an optimal workspace that supports productivity. The space should be quiet, free from distraction, with deskware that is comfortable for the required working hours. | Create an ergonomics policy (one-time or perpetual) to support this. |
- 
+
 ---
 
 ## 6. DIGITAL SERVICE ADOPTION
@@ -115,18 +115,16 @@ Adoption of these practices are necessary as they are foundational to the way we
 
 ### DIGITAL SERVICE PLAYS
 
-|	Understand what people need
-|	Address the whole experience, from start to finish
-|	Make it simple and intuitive
-|	Build the service using agile and iterative practices
-|	Structure budgets and contracts to support delivery
-|	Assign one leader and hold that person accountable
-|	Bring in experienced teams
-|	Choose a modern technology stack
-|	Deploy in a flexible hosting environment
-|	Automate testing and deployments
-|	Manage security and privacy through reusable processes
-|	Use data to drive decisions
-|	Default to open
-
-
+- Understand what people need
+- Address the whole experience, from start to finish
+- Make it simple and intuitive
+- Build the service using agile and iterative practices
+- Structure budgets and contracts to support delivery
+- Assign one leader and hold that person accountable
+- Bring in experienced teams
+- Choose a modern technology stack
+- Deploy in a flexible hosting environment
+- Automate testing and deployments
+- Manage security and privacy through reusable processes
+- Use data to drive decisions
+- Default to open

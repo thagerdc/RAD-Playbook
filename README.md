@@ -20,7 +20,7 @@ Designed to address the execution process, this Playbook offers program managers
 5.	Supporting People
 6.	Digital Service Adoption
 
-*--------------------------------------------------------------------------------------------------------------------------------*
+*-----------------------------------------------------------------------------------------------------------------------------------------------------------*
 
 ## 1. REMOTE INFRASTRUCTURE
 The first component to support a remotely connected team is to ensure personnel have the necessary technology and hardware infrastructure in place to support the customer.

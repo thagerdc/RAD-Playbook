@@ -28,6 +28,7 @@ The first component to support a remotely connected team is to ensure personnel 
 WHAT’S NEEDED
 
 | Item | Description | Suggested Tools & Practices (Absent of Customer-Defined) |
+| ---- | ----------- | -------------------------------------------------------- |
 | Hardware | Laptop (or tablets), monitors, webcam, mic and speaker setup that works well enough for team collaboration | Laptop + Earbuds with noise cancellation (tablets for interactive design sessions) |
 Constant Connectivity | All team members are expected to be available during core work hours and customer-agreed upon hours. Perform network checks on internal networks daily, cell phone connectivity and home network (when permitted). |
 | VPN | Set up VPN, if required. Access has been tested and works. Backup plan in place if VPN fails (e.g. download the code if source control is unavailable). | Hot spot for phone connectivity |

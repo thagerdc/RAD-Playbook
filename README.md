@@ -70,5 +70,24 @@ Managing stakeholder expectations when support is remote is essential to maintai
 | Communication & meetings | The daily, weekly, monthly and quarterly schedule of client meetings, reports and communications is formalized, documented and scheduled in calendars. Video conferencing details are included in the calendar invitations. Meeting summaries and/or recordings of call are shared so that all stakeholders are across updates. | Use the team’s shared workspace to keep track of meeting summaries and track actions as part of the team board. |
 | Over communicate | Daily progress reports are shared with stakeholder(s) or client partner(s). It doesn't need to be long but maintains transparency and the sense of daily conversation, with the intent that any issues will be picked up within 24 hours. | Institute a daily touchpoint over VC. For overall responsiveness, consider the following graded approach: Instant response = phone, Minutes to hours = IM, < 24 hours = email |
 
+---
 
- 
+## 4. WAYS OF WORKING
+Establishing a clear, comprehensive governance structure, and deﬁned ways-of-working provides transparency and guidance to teams, ensuring that everyone, regardless of their role and location, is aligned to new processes and mechanisms for working together remotely.
+
+### WHAT’S NEEDED
+
+| Item | Description | Suggested Tools & Practices (Absent of Customer-Defined) |
+| ---- | ----------- | -------------------------------------------------------- |
+| Planning & scheduling | Story-sizing / estimation process is functioning and stabilized. Sprint planning or Kanban process is in place and functioning as intended. Story prioritization and story writing processes are in place. Team can depend on ﬂow of stories ready for the next sprint, or meeting Kanban WIP limits in 'Ready for Dev'. | Trello/ Jira |
+| Technical | Architectural guidelines are suﬃcient for a distributed team. Has diagrams, guiding principles, documentation to help team members stay true to the vision and agreed approaches. Supportive of onboarding new team members. Has daily tech huddle and weekly sessions that can be extended to all teams (remote or on-site). | Collaborative architectural diagrams using Google Drawings, Draw.io or Lucidcharts. Tech Huddles using online whiteboards |
+| Performance | Velocity - is established and forecast delivery is closely monitored.  Cycle time - is being tracked and is used to actively improve processes.  Automation - CI Pipeline and test automation suite are running smoothly and giving the team reliable feedback. Nothing is commented out or skipped. |
+| Standup | Daily stand-up (or scrum) meeting is tactical (not just ‘what I did yesterday’). Use a 'walk the wall' approach and discuss: ‘what do we need to do to get to done’, ‘who needs help’, ‘what pairs are we changing today’, etc. | VC and IM |
+| Stand-down (afternoon check-in) | A second check-in, with mid-afternoon status, to highlight dependencies/blockers before people sign oﬀ for the day.  Alternatively, ask each person to leave a brief chat message as they leave the virtual team room at day's end saying where they got to today and if they're stuck, etc. | VC and IM |
+| Showcase | One is held every iteration with an agenda to anchor the showcase and always attended by stakeholders. Has been tested with remote sharing technologies.  If not already in place, begin following up the showcase with an email documenting decisions and agreed actions. | Zoom, teams, GoToMeeting |
+| Inception | When is the next inception, release planning or project ideation activity planned for? Consider how the activity might be conducted remotely with some adaptations, or broken down into shorter, more focused activities over a period, using electronic tools and video conferencing. | VC in combination with Trello, Jira, Version One, Kanbanize |
+| Retrospective | There is a retrospective every iteration. Uses cycle time or other metrics to drive process improvement. Retro results in identifying action items, assigned to owners.  Action item progress is reviewed at start of next retro. | VC in combination with Trello, SharePoint, Confluence |
+| Product design & vision | Product management and design processes are in place with responsibilities well understood. Product prioritization and trade-oﬀs are happening and the team is aligned on what business outcomes they're working towards.  There is a plan for ways to replace face-to-face product/design sessions with remote alternatives for research, collaboration, ideation, workshops, etc. | Sketch/ Figma/ Adobe XD in combination with Zeplin or Invision for mockups and clickable prototypes and for designer-developer collaboration Balsamiq for wireframing |
+| Working agreement (Team Charter) | Teams have documented, shared and aligned with their stakeholders, the expectations for remote working.  Core working hours have been agreed upon. Publish the schedule of days and times for your team's regular meetings and activities. | Shared calendars with recurring events |
+
+

@@ -42,7 +42,7 @@ Constant Connectivity | All team members are expected to be available during cor
 ## 2. VIRTUAL COMMUNICATIONS
 Virtual communication and collaboration can be really challenging, however quickly establishing accessible collaboration tools and common virtual communication processes is a critical component for success.
 
-### WHAT’S NEEDED
+#### WHAT’S NEEDED
 
 | Item | Description | Suggested Tools & Practices (Absent of Customer-Defined) |
 | ---- | ----------- | -------------------------------------------------------- |
@@ -60,7 +60,7 @@ Virtual communication and collaboration can be really challenging, however quick
 ## 3. MANAGING STAKEHOLDER EXPECTATIONS
 Managing stakeholder expectations when support is remote is essential to maintaining trust and conﬁdence. It is human nature to worry more about something we can’t see or control than something we can. Instilling these principles into your work practices help to build and grow the strong relationships that are core to eﬀective remote support.
 
-### WHAT’S NEEDED
+#### WHAT’S NEEDED
 
 | Item | Description | Suggested Tools & Practices (Absent of Customer-Defined) |
 | ---- | ----------- | -------------------------------------------------------- |
@@ -75,7 +75,7 @@ Managing stakeholder expectations when support is remote is essential to maintai
 ## 4. WAYS OF WORKING
 Establishing a clear, comprehensive governance structure, and deﬁned ways-of-working provides transparency and guidance to teams, ensuring that everyone, regardless of their role and location, is aligned to new processes and mechanisms for working together remotely.
 
-### WHAT’S NEEDED
+#### WHAT’S NEEDED
 
 | Item | Description | Suggested Tools & Practices (Absent of Customer-Defined) |
 | ---- | ----------- | -------------------------------------------------------- |
@@ -95,7 +95,7 @@ Establishing a clear, comprehensive governance structure, and deﬁned ways-of-w
 ## 5. SUPPORTING PEOPLE
 While the right tools and processes are important for remote support, success is fundamentally about people. For remote support to be sustainable, it is critical that we consider the employee experience; becoming deliberate about how we engage, motivate and support our employees.
 
-### WHAT’S NEEDED
+#### WHAT’S NEEDED
 
 | Item | Description | Suggested Tools & Practices (Absent of Customer-Defined) |
 | ---- | ----------- | -------------------------------------------------------- |

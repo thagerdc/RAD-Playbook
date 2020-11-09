@@ -32,9 +32,8 @@ WHAT’S NEEDED
 | Hardware | Laptop (or tablets), monitors, webcam, mic and speaker setup that works well enough for team collaboration | Laptop + Earbuds with noise cancellation (tablets for interactive design sessions) |
 Constant Connectivity | All team members are expected to be available during core work hours and customer-agreed upon hours. Perform network checks on internal networks daily, cell phone connectivity and home network (when permitted). |
 | VPN | Set up VPN, if required. Access has been tested and works. Backup plan in place if VPN fails (e.g. download the code if source control is unavailable). | Hot spot for phone connectivity |
+| Security | Process in place to meet federal client security requirements (e.g. request access, user ID etc.). Team members are not relying on teammates for systems access. | In absence of GFE - hard drive encryption, device hardening, SSL, MDM, Password managers, Multi-factor authentication |
+| Source control | The team can log on and use the source control tool (e.g. GitHub works on VPN). Make sure all your privately hosted or government services are available over VPN or other means. | GitLab, GitHub |
+| Build pipelines & automation | The team can access and run the build and automation tools eﬀectively. | CircleCI, AWS CodePipeline, Google Cloud Build |
+| Environments | Team members can access test environments and databases remotely. | Production support can continue remotely, including access to logging and monitoring, deployments. | AWS, Azure |
 
-Security	|	Process in place to meet federal client security requirements (e.g. request access, user ID etc.). Team members are not relying on teammates for systems access.	In absence of GFE - hard drive encryption, device hardening, SSL, MDM, Password managers, Multi-factor authentication
-Source control	|	The team can log on and use the source control tool (e.g. GitHub works on VPN). Make sure all your privately hosted or government services are available over VPN or other means.	GitLab, GitHub
-Build pipelines & automation	|	The team can access and run the build and automation tools eﬀectively.	CircleCI, AWS CodePipeline, Google Cloud Build
-Environments	|	Team members can access test environments and databases remotely.
-|	Production support can continue remotely, including access to logging and monitoring, deployments.	AWS, Azure

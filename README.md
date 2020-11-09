@@ -115,16 +115,16 @@ Adoption of these practices are necessary as they are foundational to the way we
 
 ### DIGITAL SERVICE PLAYS
 
-- Understand what people need
-- Address the whole experience, from start to finish
-- Make it simple and intuitive
-- Build the service using agile and iterative practices
-- Structure budgets and contracts to support delivery
-- Assign one leader and hold that person accountable
-- Bring in experienced teams
-- Choose a modern technology stack
-- Deploy in a flexible hosting environment
-- Automate testing and deployments
-- Manage security and privacy through reusable processes
-- Use data to drive decisions
-- Default to open
+- [Understand what people need](https://playbook.cio.gov/#play1)
+- [Address the whole experience, from start to finish](https://playbook.cio.gov/#play2)
+- [Make it simple and intuitive](https://playbook.cio.gov/#play3)
+- [Build the service using agile and iterative practices](https://playbook.cio.gov/#play4)
+- [Structure budgets and contracts to support delivery](https://playbook.cio.gov/#play5)
+- [Assign one leader and hold that person accountable](https://playbook.cio.gov/#play6)
+- [Bring in experienced teams](https://playbook.cio.gov/#play7)
+- [Choose a modern technology stack](https://playbook.cio.gov/#play8)
+- [Deploy in a flexible hosting environment](https://playbook.cio.gov/#play9)
+- [Automate testing and deployments](https://playbook.cio.gov/#play10)
+- [Manage security and privacy through reusable processes](https://playbook.cio.gov/#play11)
+- [Use data to drive decisions](https://playbook.cio.gov/#play12)
+- [Default to open](https://playbook.cio.gov/#play13)

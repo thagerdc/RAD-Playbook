@@ -1,8 +1,8 @@
-# RAD-Playbook
+# REMOTE APPLICATION DEVELOPMENT PLAYBOOK
 Macro Solutions' Remote Application Development Playbook
 Macro Solutions’ Remote Application Development (‘RAD’) Playbook provides guidance and processes needed to efficiently and effectively develop and deliver products that meet our customers’ needs. The Playbook enables our team to “hit the ground running,” providing significant benefit to our customers by increasing program management efficiency, decreasing program time and cost, reducing execution risks, and streamlining delivery.
 
-KEY PRACTICES
+# KEY PRACTICES
 
 •	Connectedness is critical – Emphasize the importance of video and being present.  Video meetings are not a time for multi-tasking.
 
@@ -12,7 +12,7 @@ KEY PRACTICES
 
 •	Good audio etiquette is vital – Practice good meeting etiquette: remain on mute if you have background noise, don’t hog the microphone, take turns to speak (use the virtual “raise hand” in tooling that supports it), be polite, and keep an eye on chat for team members raising points to discuss.  Use earbud-style or wired headsets for best sound quality.
 
-THE PLAYS
+# THE PLAYS
 
 Designed to address the execution process, this Playbook offers program managers and software engineers information on how Federal Agile Digital Services are integrated with remote development. Fundamentally, this Playbook provides the overall structure for how to implement Macro’s Remote Application Development processes and provides practical instructions to execute projects, filling in the gaps in the absence of any customer-provided methodology or tooling. The following plays are core to this approach and are covered in more detail in the following pages.
 

@@ -128,3 +128,7 @@ Adoption of these practices are necessary as they are foundational to the way we
 - [Manage security and privacy through reusable processes](https://playbook.cio.gov/#play11)
 - [Use data to drive decisions](https://playbook.cio.gov/#play12)
 - [Default to open](https://playbook.cio.gov/#play13)
+
+---
+
+![](images/RAD.png)

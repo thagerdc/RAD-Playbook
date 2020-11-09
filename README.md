@@ -18,7 +18,7 @@ Designed to address the execution process, this Playbook offers program managers
 3.	[Managing Stakeholder Expectations](https://github.com/thagerdc/RAD-Playbook/blob/main/README.md#3-managing-stakeholder-expectations)
 4.	[Ways of Working](https://github.com/thagerdc/RAD-Playbook/blob/main/README.md#4-ways-of-working)
 5.	[Supporting People](https://github.com/thagerdc/RAD-Playbook/blob/main/README.md#5-supporting-people)
-6.	[Digital Service Adoption](https://github.com/thagerdc/RAD-Playbook/blob/main/README.md#6-digital-services-adoption)
+6.	[Digital Service Adoption](https://github.com/thagerdc/RAD-Playbook/blob/main/README.md#6-digital-service-adoption)
 
 ---
 

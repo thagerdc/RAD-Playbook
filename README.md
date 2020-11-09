@@ -131,4 +131,4 @@ Adoption of these practices are necessary as they are foundational to the way we
 
 ---
 
-![](images/RAD.png)
+![](RAD.png)

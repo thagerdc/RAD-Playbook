@@ -90,4 +90,43 @@ Establishing a clear, comprehensive governance structure, and deﬁned ways-of-w
 | Product design & vision | Product management and design processes are in place with responsibilities well understood. Product prioritization and trade-oﬀs are happening and the team is aligned on what business outcomes they're working towards.  There is a plan for ways to replace face-to-face product/design sessions with remote alternatives for research, collaboration, ideation, workshops, etc. | Sketch/ Figma/ Adobe XD in combination with Zeplin or Invision for mockups and clickable prototypes and for designer-developer collaboration Balsamiq for wireframing |
 | Working agreement (Team Charter) | Teams have documented, shared and aligned with their stakeholders, the expectations for remote working.  Core working hours have been agreed upon. Publish the schedule of days and times for your team's regular meetings and activities. | Shared calendars with recurring events |
 
+---
+
+## 5. SUPPORTING PEOPLE
+While the right tools and processes are important for remote support, success is fundamentally about people. For remote support to be sustainable, it is critical that we consider the employee experience; becoming deliberate about how we engage, motivate and support our employees.
+
+### WHAT’S NEEDED
+
+| Item | Description | Suggested Tools & Practices (Absent of Customer-Defined) |
+| ---- | ----------- | -------------------------------------------------------- |
+| Onboarding | There are processes in place and content in use for onboarding new team members. Consider following up the onboarding with a buddy system to help new team members settle in. Have training/learning materials and links ready for closing skills gaps or tech stack knowledge. | Use a team Wiki (Conﬂuence/ Google Sites) to catalog the most important onboarding information; create an onboarding checklist; institute a “buddy” to onboard new people to the team. |
+| Feedback | There is an established framework for 1:1 with team members. Consider moving to weekly for the period. Act on and follow up after 1:1 where there is a need.  Undertake a health check as part of the weekly 1:1. Conﬁrm if team members are integrating and performing as expected.  Get help from HR or Leadership if you are unsure how to support team members. | In-context feedback during/ after routine collaboration (e.g. remote pairing), Regular 1:1 check-ins over VC. |
+| Wellness | Teams have a process to update the organization of any illnesses or change in status for their team members.  Share information relating to the issues with the wider team, including status, actions and policy updates. Draw their attention to any company-wide communications. | Email; regular internal meetings; helpline for those who need it. |
+| Ergonomics | Employees have an optimal workspace that supports productivity. The space should be quiet, free from distraction, with deskware that is comfortable for the required working hours. | Create an ergonomics policy (one-time or perpetual) to support this. |
+ 
+---
+
+## 6. DIGITAL SERVICE ADOPTION
+To increase the success rate of Federal digital services projects, the U.S. Government developed the [Digital Services Playbook] (https://playbook.cio.gov). It is comprised of 13 key recommendations drawn from successful practices from the private sector and government that help government build effective digital services.  
+
+As noted on the site, “The American people expect to interact with government through digital channels such as websites, email, and mobile applications. By building digital services that meet their needs, we can make the delivery of our policy and programs more effective.”  
+
+Adoption of these practices are necessary as they are foundational to the way we work.
+
+### DIGITAL SERVICE PLAYS
+
+|	Understand what people need
+|	Address the whole experience, from start to finish
+|	Make it simple and intuitive
+|	Build the service using agile and iterative practices
+|	Structure budgets and contracts to support delivery
+|	Assign one leader and hold that person accountable
+|	Bring in experienced teams
+|	Choose a modern technology stack
+|	Deploy in a flexible hosting environment
+|	Automate testing and deployments
+|	Manage security and privacy through reusable processes
+|	Use data to drive decisions
+|	Default to open
+
 

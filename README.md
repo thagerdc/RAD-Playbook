@@ -25,7 +25,7 @@ Designed to address the execution process, this Playbook offers program managers
 ## 1. REMOTE INFRASTRUCTURE
 The first component to support a remotely connected team is to ensure personnel have the necessary technology and hardware infrastructure in place to support the customer.
 
-### WHAT’S NEEDED
+#### WHAT’S NEEDED
 
 | Item | Description | Suggested Tools & Practices (Absent of Customer-Defined) |
 | ---- | ----------- | -------------------------------------------------------- |

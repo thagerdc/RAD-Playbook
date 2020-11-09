@@ -5,12 +5,9 @@ Macro Solutions’ Remote Application Development (‘RAD’) Playbook provides 
 ### KEY PRACTICES
 
 - Connectedness is critical – Emphasize the importance of video and being present.  Video meetings are not a time for multi-tasking.
-
-•	Building trust takes commitment – Trust is easier to build if teams have been working with the customer for some time, especially if they have met in person. For team members who have not met, trust may be low. Ensure team members have some time to interact socially (via video) as this will build a human connection and increase trust and productivity.
-
-•	Embrace ﬂexibility – Remote support teams must work harder to remain connected and will often need to work early or late in the day to connect with colleagues. Find ways to incentivize flexible behaviors.
-
-•	Good audio etiquette is vital – Practice good meeting etiquette: remain on mute if you have background noise, don’t hog the microphone, take turns to speak (use the virtual “raise hand” in tooling that supports it), be polite, and keep an eye on chat for team members raising points to discuss.  Use earbud-style or wired headsets for best sound quality.
+- Building trust takes commitment – Trust is easier to build if teams have been working with the customer for some time, especially if they have met in person. For team members who have not met, trust may be low. Ensure team members have some time to interact socially (via video) as this will build a human connection and increase trust and productivity.
+- Embrace ﬂexibility – Remote support teams must work harder to remain connected and will often need to work early or late in the day to connect with colleagues. Find ways to incentivize flexible behaviors.
+- Good audio etiquette is vital – Practice good meeting etiquette: remain on mute if you have background noise, don’t hog the microphone, take turns to speak (use the virtual “raise hand” in tooling that supports it), be polite, and keep an eye on chat for team members raising points to discuss.  Use earbud-style or wired headsets for best sound quality.
 
 ### THE PLAYS
 

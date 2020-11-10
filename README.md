@@ -1,6 +1,6 @@
 # MACRO SOLUTIONS - RAPID APPLICATION DELIVERY
 ### Highly-skilled, fully-engaged scrum teams ready to deliver now.
-*We have the capacity to quickly standup highly-skilled scrum teams ready for application and platform development tasks.  Our team is CONUS-based, but off site, using secure agile techniques and advanced tooling to communicate and engage efficiently while remaining cost effective.  Learn more in our [Playbook](https://github.com/thagerdc/RAD-Playbook/blob/main/README.md#rapid-application-delivery-playbook).*
+*We have the capacity to quickly standup highly-skilled scrum teams ready for application and platform development tasks.  Our team is CONUS-based, but off site, using secure agile techniques and advanced tooling to communicate and engage efficiently while remaining cost effective.  Learn more in our [RAD Playbook](https://github.com/thagerdc/RAD-Playbook/blob/main/README.md#rapid-application-delivery-playbook).*
 
 ![](RAD.png)
 
